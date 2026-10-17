@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Haanie
 
-<!--
-**haanie09/haanie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that runs real businesses.
 
-Here are some ideas to get you started:
+**Safar**: operations platform running a family-owned Denver wholesale distributor.
+344 invoices, 283 stores and 3 field reps since July 2026. One entry updates invoices and inventory; reps are routed by overdue balance.
+Code is private (live customer data). Demo: [safar.haanie.com](https://safar.haanie.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Steel City Codes Management System](https://github.com/DenverSteelCityCodes/Denver-Steel-City-Codes-Management-System)**: registration and camp operations for the nonprofit I run in Denver. Parents register campers, volunteers get crewed onto classes, admins run the season. Row-level security, admin MFA, audit log and undo. Demo: [scc.haanie.com](https://scc.haanie.com)
+
+I write Python and Java. I build products with AI coding tools (Claude Code); Safar and the SCC system run on React, TypeScript and Supabase.
+
+[haanie.com](https://haanie.com) · me@haanie.com
